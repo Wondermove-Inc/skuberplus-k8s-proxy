@@ -34,8 +34,6 @@ This repository is a fork of [lens-k8s-proxy](https://github.com/lensapp/lens-k8
 
 Copyright (c) 2025 SkuberPlus Authors.
 
-Copyright (c) 2024-2025 Freelens Authors.
-
 Copyright (c) 2022 Mirantis, Inc.
 
 [MIT License](https://opensource.org/licenses/MIT)
