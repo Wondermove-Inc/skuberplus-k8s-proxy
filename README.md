@@ -1,4 +1,4 @@
-# Freelens K8s Proxy
+# Skuberplus K8s Proxy
 
 <!-- markdownlint-disable MD013 -->
 
