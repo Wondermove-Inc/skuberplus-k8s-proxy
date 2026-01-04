@@ -1,4 +1,4 @@
-# Skuberplus K8s Proxy
+<h1 align="center">Skuberplus K8s Proxy</h1>
 
 <!-- markdownlint-disable MD013 -->
 
@@ -6,9 +6,6 @@
   <a href="https://github.com/Wondermove-Inc/skuberplus-k8s-proxy/releases"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version"></a>
   <a href="https://github.com/Wondermove-Inc/skuberplus-k8s-proxy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 </p>
-
-[![GitHub](https://img.shields.io/github/v/release/freelensapp/freelens-k8s-proxy?display_name=tag&sort=semver)](https://github.com/freelensapp/freelens-k8s-proxy)
-[![Test](https://github.com/freelensapp/freelens-k8s-proxy/actions/workflows/test.yaml/badge.svg)](https://github.com/freelensapp/freelens-k8s-proxy/actions/workflows/test.yaml)
 
 <!-- markdownlint-enable MD013 -->
 
